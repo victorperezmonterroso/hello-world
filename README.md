@@ -1,2 +1,3 @@
 # hello-world
-First example of a Git Repository
+
+This is my first example on a commit.
